@@ -11,4 +11,8 @@ h1{
 	width: 40%;
 	margin-left: 5%;
 	padding-left: 2%;
+	float: left;
+}
+.half-width imag {
+width: 100%;
 }
