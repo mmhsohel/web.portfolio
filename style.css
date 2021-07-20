@@ -7,3 +7,8 @@ h1{
 .high-light{
 	color: orange;
 }
+.half-width{
+	width: 40%;
+	margin-left: 5%;
+	padding-left: 2%;
+}
