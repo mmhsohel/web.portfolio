@@ -1,5 +1,6 @@
 body{
 	font-family: 'Open Sans', sans-serif;
+	text-align: justify;
 }
 h1{
 	font-size: 50px;
@@ -14,5 +15,8 @@ h1{
 	float: left;
 }
 .half-width img {
-	width: 100%;
+	width: 80%;
+}
+.sec-high{
+	height: 400px;
 }
